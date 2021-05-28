@@ -1,0 +1,6 @@
+id;name;designation;salary
+1;Ram;A1;20000
+2;Sita;B2;30000
+3;Anika;C1;40000
+4;Sruthi;A2;25000
+5;Sagar;C1;40000
