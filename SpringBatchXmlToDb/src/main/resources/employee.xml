@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<id>1</id>
+		<name>Radha</name>
+		<designation>A1</designation>
+		<salary>20000</salary>
+	</employee>
+	
+	<employee>
+		<id>2</id>
+		<name>SriRam</name>
+		<designation>B2</designation>
+		<salary>30000</salary>
+	</employee>
+	
+	<employee>
+		<id>3</id>
+		<name>Anita</name>
+		<designation>C1</designation>
+		<salary>40000</salary>
+	</employee>
+
+	<employee>
+		<id>4</id>
+		<name>Simran</name>
+		<designation>A2</designation>
+		<salary>25000</salary>
+	</employee>
+	
+	<employee>
+		<id>5</id>
+		<name>Sunil</name>
+		<designation>C1</designation>
+		<salary>40000</salary>
+	</employee>
+</employees>
